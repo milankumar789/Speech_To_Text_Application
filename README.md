@@ -13,6 +13,7 @@ Features
 •	Responsive Modern UI
 
 #Tech Stack
+
 Frontend
 •	React
 •	Vite
